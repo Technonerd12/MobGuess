@@ -1,0 +1,6 @@
+name: MobGuess
+main: me.galsk.mobguess.Main
+version: 1.0
+commands:
+   game: 
+      description: Main command for mobguess
